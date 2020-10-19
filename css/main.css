@@ -5,9 +5,9 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   font-family: Overpass, sans-serif;
+  background-image: linear-gradient(#ff9500, #ff5e3a);
   color: #fff;
   line-height: 1.5;
-  background-image: linear-gradient(#ff9500, #ff5e3a);
 }
 
 *, *::before, *::after {
@@ -24,7 +24,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   margin: .5em;
 }
 
@@ -56,7 +56,7 @@ a:focus {
 
 a {
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: #fff;
   border: 2px solid #fff;
   padding: 1rem;
@@ -84,7 +84,7 @@ a {
   }
 
   p {
-    margin-bottom: 1.5em;
+    margin-bottom: 1.4em;
     display: flex;
   }
 
